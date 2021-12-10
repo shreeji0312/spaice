@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div id="top"></div>
 
 
@@ -104,3 +105,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+=======
+# spaice
+ test challenge
+ https://spaice.netlify.app/
+>>>>>>> c3c79d7aebf0e0d9c703fd82621cb16e88f40b88
